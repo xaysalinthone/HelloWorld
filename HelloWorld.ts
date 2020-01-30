@@ -1,0 +1,8 @@
+class HelloWorld {
+
+    constructor(para){
+
+    }
+
+    
+}
