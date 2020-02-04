@@ -1,12 +1,11 @@
 class HelloWorld {
 
-    constructor(para){
+    constructor(firstName:string, lastName: string){
 
     }
     greet(){
-        console.log('Hello World! My name is Xayaphone Salinthone.'); 
+        console.log('Hello World!'+ 'My name is ' + this.firstName + ' ' + this.lastName); 
         
     }
-
     
 }
